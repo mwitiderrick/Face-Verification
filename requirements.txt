@@ -1,0 +1,14 @@
+Keras
+Keras-Applications
+Keras-Preprocessing
+keras-vggface
+matplotlib
+numpy
+oauthlib
+opencv-python-headless
+pandas
+Pillow
+scipy
+streamlit
+tensorflow-cpu
+mtcnn
